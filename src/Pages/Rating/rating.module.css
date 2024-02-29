@@ -1,0 +1,11 @@
+.rating {
+    display: inline-block;
+  }
+  
+  .star {
+    color: gray;
+  }
+  
+  .star.filled {
+    color: gold;
+  }
